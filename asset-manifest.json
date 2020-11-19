@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/portfolio/static/js/main.a3d6e807.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a3d6e807.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.cf7d7936.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cf7d7936.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.ee5778c5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.ee5778c5.js.map",
     "static/js/2.7e4a8ed5.chunk.js": "/portfolio/static/js/2.7e4a8ed5.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/javascript.07314975.svg": "/portfolio/static/media/javascript.07314975.svg",
     "static/media/nodejs.38d424a0.svg": "/portfolio/static/media/nodejs.38d424a0.svg",
     "static/media/profile-pic.24b71c83.jpg": "/portfolio/static/media/profile-pic.24b71c83.jpg",
-    "static/media/programming-keyboard.b3278f0e.jpg": "/portfolio/static/media/programming-keyboard.b3278f0e.jpg",
+    "static/media/programming-keyboard.8721d513.svg": "/portfolio/static/media/programming-keyboard.8721d513.svg",
     "static/media/react.add74742.svg": "/portfolio/static/media/react.add74742.svg",
     "static/media/spring.b701f1fc.svg": "/portfolio/static/media/spring.b701f1fc.svg",
     "static/media/typescript.a6305a73.svg": "/portfolio/static/media/typescript.a6305a73.svg"
@@ -27,6 +27,6 @@
     "static/js/runtime-main.ee5778c5.js",
     "static/js/2.7e4a8ed5.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a3d6e807.chunk.js"
+    "static/js/main.cf7d7936.chunk.js"
   ]
 }
